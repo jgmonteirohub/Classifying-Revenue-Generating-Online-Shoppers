@@ -204,5 +204,7 @@ gradboost.fit(X_train,y_train)
 gb_pred = gradboost.predict(X_test)
 print("Gradient Boosting Classification Report:\n", classification_report(gb_pred,y_test))
 
+# The Random Forest and Gradient Boosting models perform the best on the testing set as well. 
+# We can conclude either the Random Forest or Gradient Boosting models are the ideal choices for this classification problem
 
 
