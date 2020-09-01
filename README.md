@@ -5,4 +5,6 @@
 * Unsupervised Learning method, Clustering, was also employed in order to gain further insight from the customer data
 * Performance analysis determined that the Gradient Boosting model was the most effective method to use, with 90 percent accuracy 
 
-![](images/revenuebymonth.PNG)
+![](https://github.com/jgmonteirohub/Classifying-Revenue-Generating-Online-Shoppers/blob/master/revenuebymonth.PNG)
+
+Stacked barplot showing the number of visitors that generate revenue each month out of total monthly visitors
